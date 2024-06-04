@@ -61,7 +61,7 @@ The solutions to these challenges can be found in the `Challenges` folder, with 
 - CSS
 - JavaScript
 
-## Contributors
+## Contributor
 
 - https://github.com/mwisemarierose
 

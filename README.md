@@ -28,10 +28,10 @@ The interactive photo gallery is a responsive web application built using HTML, 
 - Clean and well-structured code
 
 ## Installation
-
-1. Clone the repository: `git clone https://github.com/mwisemarierose/code-of-Africa`
-2. Navigate to the project directory: `cd your clone directory`
-3. Open the `index.html` file in your preferred web browser.
+1. Open your preferable IDE eg:Visual studio
+2. Clone the repository: `git clone https://github.com/mwisemarierose/code-of-Africa`
+3. Navigate to the project directory: `cd your clone directory`
+4. Open the `index.html` file in your preferred web browser.
 
 ## Usage
 
